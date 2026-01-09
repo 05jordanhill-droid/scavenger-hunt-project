@@ -1,0 +1,15 @@
+.pizza{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+div{
+    width: 100%;
+    height: 40px;
+}
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
